@@ -1,0 +1,35 @@
+## Quantifying Genetic Variation in Reproductive Traits in Scots Pine 
+
+## Metadata
+
+# R_Code.R 
+    Full R script for data analysis and producing figures
+    
+# cone_data.xlsx
+    Full data set of reproductive traits in excel format
+    
+# cone_data.csv
+    Full data set of reproductive traits in csv format 
+    
+# Preliminary_Traits.csv
+    Preliminary trait measurements in populations ΒΕ,ΒW, GT
+    
+# Cone_corr.csv
+    data set for correlations across all populations 
+    
+# seed_corr
+    data set for seed correlations across all populations
+    
+# gen_corr
+    calculated genetic correlations between traits 
+    
+# phen_corr
+    calculated phenotypic correlations between traits 
+    
+
+    
+    
+
+
+
+
